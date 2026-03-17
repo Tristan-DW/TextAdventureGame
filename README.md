@@ -75,22 +75,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
 
-**Made with love by [Tristan Wentzel](https://github.com/Tristan-DW)**
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Built by <a href="https://github.com/Tristan-DW">Tristan Wentzel</a></sub>
-
-</div>
-
----
-
-<div align="center">
-
 <sub>Architected by <a href="https://github.com/Tristan-DW">Tristan</a> &mdash; Head Architect</sub>
 
 </div>
